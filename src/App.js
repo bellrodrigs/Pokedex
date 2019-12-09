@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap/dist/js/bootstrap.min.js';
 import {jQuery as $} from 'jquery';
 import './App.css';
 import NavBar from './components/layout/NavBar';
