@@ -1,0 +1,23 @@
+
+.App {
+  padding-top: 4em;
+  background-color: #efefef;
+  height: 1300px;
+}
+    @media only screen and (max-width: 600px){
+      .App{
+        height: 200%;
+      }
+    }
+.image-costum{
+  width: 6em !important;
+}
+
+.bg-dark {
+  background-color: #ef5350 !important;
+  color: white;
+}
+
+
+
+
